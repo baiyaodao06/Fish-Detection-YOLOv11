@@ -30,25 +30,20 @@
 
 ## 📁 项目文件结构
 
+```
 Fish-Detection-YOLOv11/
-
-├── data/ # 数据集（含图片及标注文件）
-
-├── models/ # 训练好的 .pt 权重文件
-
-├── scripts/ # Python脚本
-
-│ ├── train.py # 训练脚本
-
-│ ├── detect.py # 推理检测脚本
-
-│ └── eval.py # 评估脚本
-
-├── outputs/ # 推理结果可视化图片
-
-├── requirements.txt # 环境依赖列表
-
-└── README.md # 项目说明
+├── data/
+│   └── 1.jpg                # 测试图片
+├── models/
+│   └── best.pt              # 训练好的权重文件
+├── .gitignore               # Git忽略文件
+├── LICENSE                  # 开源协议
+├── README.md                # 项目说明
+├── custom.yaml              # 数据集配置文件
+├── detect.py                # 推理检测脚本
+├── requirements.txt         # 环境依赖列表
+└── train_yolov11_fish.py    # 训练脚本
+```
 
 ---
 
