@@ -58,3 +58,13 @@ pip install -r requirements.txt
 
 # 3. 运行推理检测
 python detect.py --weights models/best.pt --source data/1.jpg
+
+---
+
+## 📫 联系我
+
+- 📧 邮箱：baiyaodoa06@163.com
+- 🔗 项目地址：[https://github.com/baiyaodao06/Fish-Detection-YOLOv11](https://github.com/baiyaodao06/Fish-Detection-YOLOv11)
+
+> 我是 2027 届计算机专科应届毕业生，正在求职 AI 视觉应用 / 计算机视觉助理工程师岗位。  
+> 如果对我的项目感兴趣，欢迎随时邮件联系我，期待与您沟通！
