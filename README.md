@@ -56,7 +56,7 @@ Fish-Detection-YOLOv8/
 
 ```bash
 # 1. 克隆仓库到本地
-git clone https://github.com/baiyaodao06/Fish-Detection-YOLOv8.git
+https://github.com/baiyaodao06/Fish-Detection-YOLOv11
 
 # 2. 安装依赖
 pip install -r requirements.txt
