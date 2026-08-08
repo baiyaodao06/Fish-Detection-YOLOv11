@@ -32,13 +32,21 @@
 
 Fish-Detection-YOLOv8/
 ├── data/ # 数据集（含图片及标注文件）
+
 ├── models/ # 训练好的 .pt 权重文件
+
 ├── scripts/ # Python脚本
+
 │ ├── train.py # 训练脚本
+
 │ ├── detect.py # 推理检测脚本
+
 │ └── eval.py # 评估脚本
+
 ├── outputs/ # 推理结果可视化图片
+
 ├── requirements.txt # 环境依赖列表
+
 └── README.md # 项目说明
 
 ---
