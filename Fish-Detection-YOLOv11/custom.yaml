@@ -1,0 +1,14 @@
+# 数据集目录
+path: ./data
+
+# 数据集路径
+train: images/train    # 训练集
+val: images/val        # 验证集
+test: images/test      # 测试集
+
+# 类别数量
+nc: 1
+
+# 类别名称
+names:
+  0: fish
