@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 # 3. 运行推理检测
 python detect.py --weights models/best.pt --source data/1.jpg
-
+```
 ---
 
 ## 📫 联系我
