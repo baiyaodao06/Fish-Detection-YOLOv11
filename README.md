@@ -56,5 +56,5 @@ https://github.com/baiyaodao06/Fish-Detection-YOLOv11
 # 2. 安装依赖
 pip install -r requirements.txt
 
-# 3. 运行推理检测（使用我训练好的权重）
-python detect.py --weights models/best.pt --source data/test.jpg 
+# 3. 运行推理检测
+python detect.py --weights models/best.pt --source data/1.jpg
