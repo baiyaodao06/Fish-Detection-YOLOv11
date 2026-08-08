@@ -30,7 +30,7 @@
 
 ## 📁 项目文件结构
 
-Fish-Detection-YOLOv8/
+Fish-Detection-YOLOv11/
 
 ├── data/ # 数据集（含图片及标注文件）
 
